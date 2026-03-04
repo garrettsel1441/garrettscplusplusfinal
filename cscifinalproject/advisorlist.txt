@@ -1,0 +1,6 @@
+Rafiki|1|Invisibility- Avoid ambushes, go undetected when you need it most!
+Nala|2|Night Vision- The time of day doesn't matter, see in the pitch black!
+Sarabi|3|Energy Manipulation- Energy isn't an issue, you control your own!
+Zazu|4|Weather Control- Mother Earth cannot hurt you, you control the weather!
+Sarafina|5|Super Speed- Escape is easy when you're the fastest lion on the savannah!
+Scar|6|Command- Scar protects you from harmful tiles! WARNING: You will lose 10,000 pride-points upon selection.
